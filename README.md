@@ -108,8 +108,10 @@ The system uses OpenCV's DNN module with a pre-trained Caffe model for face dete
 Here are some example results from the face detection system:
 
 ### Image Detection Example
+![image](https://github.com/user-attachments/assets/5aee855e-9835-477f-b4f2-4980f946d2ef)
 
 ### Video Detection Example
+![image](https://github.com/user-attachments/assets/21805c08-2bed-4b8b-9631-b6970557e37d)
 
 ## Directory Structure
 
