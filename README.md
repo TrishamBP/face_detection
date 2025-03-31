@@ -2,7 +2,7 @@
 
 A robust face detection system using OpenCV's deep learning-based face detectors. This project provides tools for detecting faces in both images and video streams with higher accuracy than traditional methods.
 
-![Face Detection Example](images/face_detection_example.jpg)
+![Face Detection Example](https://github.com/user-attachments/assets/d54c7059-b05c-4cba-8342-e7ee0d83df7e)
 
 ## Features
 
